@@ -1,5 +1,5 @@
 # AZ-900
-![AZ-900 Logo](/images/AZ-900-Microsoft-Azure-Fundamentals.jpg)
+![AZ-900 Logo](AZ-900-Microsoft-Azure-Fundamentals.jpg)
 
 
 ## Introduction
