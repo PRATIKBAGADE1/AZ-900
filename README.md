@@ -239,7 +239,7 @@ A load balancer is used in front of two VMs to access the data before reaching t
 - Outbound Traffic
 
 ### VPN Gateway
-![VPN](/images/vpn.png)
+![VPN](/vpn.png)
 
 VPN Stands for Virtual Private Network, a VPN gateway is useful for establishing the private connection between Azure resource and an onpremises environment, offices, the cloud or other premises within the cloud in order to establish a private secure connection. In Microsoft Azure, VPN gateway provides the managed services within the cloud.
 #### Virtual Network Gateway 
